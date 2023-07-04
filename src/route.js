@@ -3,7 +3,7 @@ import AddProduct from "@/components/AddProduct.vue";
 import EditProduct from "@/components/EditProduct.vue";
 import { createRouter, createWebHistory } from 'vue-router'
 
-
+//npm install vue bootstrap bootstrap-vue
 const routes = [
 
     {

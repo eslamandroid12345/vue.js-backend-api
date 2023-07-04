@@ -1,4 +1,6 @@
 <template>
+  <div class="container">
+
   <form @submit.prevent="updateProduct">
     <div class="form-group">
 
@@ -26,6 +28,8 @@
 
     <button type="submit" class="btn btn-primary">Save Data</button>
   </form>
+  </div>
+
 </template>
 
 <script>
